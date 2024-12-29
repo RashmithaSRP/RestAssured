@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-27T02:56:13 IST" name="my suite" finished-at="2024-12-27T02:56:28 IST" duration-ms="15137">
+    <groups>
+    </groups>
+    <test started-at="2024-12-27T02:56:13 IST" name="my test" finished-at="2024-12-27T02:56:28 IST" duration-ms="15137">
+      <class name="com.CapstoneTelecom.TelecomProject">
+        <test-method signature="addNewUser()[pri:1, instance:com.CapstoneTelecom.TelecomProject@2ea41516]" started-at="2024-12-27T02:56:13 IST" name="addNewUser" finished-at="2024-12-27T02:56:17 IST" duration-ms="4267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewUser -->
+        <test-method signature="getUser()[pri:2, instance:com.CapstoneTelecom.TelecomProject@2ea41516]" started-at="2024-12-27T02:56:17 IST" name="getUser" finished-at="2024-12-27T02:56:18 IST" duration-ms="1158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method signature="updateUser()[pri:3, instance:com.CapstoneTelecom.TelecomProject@2ea41516]" started-at="2024-12-27T02:56:18 IST" name="updateUser" finished-at="2024-12-27T02:56:20 IST" duration-ms="1200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method signature="loginUser()[pri:4, instance:com.CapstoneTelecom.TelecomProject@2ea41516]" started-at="2024-12-27T02:56:20 IST" name="loginUser" finished-at="2024-12-27T02:56:21 IST" duration-ms="1263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+        <test-method signature="addContact()[pri:5, instance:com.CapstoneTelecom.TelecomProject@2ea41516]" started-at="2024-12-27T02:56:21 IST" name="addContact" finished-at="2024-12-27T02:56:22 IST" duration-ms="1215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method signature="getContactList()[pri:6, instance:com.CapstoneTelecom.TelecomProject@2ea41516]" started-at="2024-12-27T02:56:22 IST" name="getContactList" finished-at="2024-12-27T02:56:23 IST" duration-ms="1132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContactList -->
+        <test-method signature="getContact()[pri:7, instance:com.CapstoneTelecom.TelecomProject@2ea41516]" started-at="2024-12-27T02:56:23 IST" name="getContact" finished-at="2024-12-27T02:56:24 IST" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContact -->
+        <test-method signature="updateContact()[pri:8, instance:com.CapstoneTelecom.TelecomProject@2ea41516]" started-at="2024-12-27T02:56:24 IST" name="updateContact" finished-at="2024-12-27T02:56:26 IST" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateContact -->
+        <test-method signature="partialUpdateContact()[pri:9, instance:com.CapstoneTelecom.TelecomProject@2ea41516]" started-at="2024-12-27T02:56:26 IST" name="partialUpdateContact" finished-at="2024-12-27T02:56:27 IST" duration-ms="1293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partialUpdateContact -->
+        <test-method signature="logOutUser()[pri:10, instance:com.CapstoneTelecom.TelecomProject@2ea41516]" started-at="2024-12-27T02:56:27 IST" name="logOutUser" finished-at="2024-12-27T02:56:28 IST" duration-ms="1168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutUser -->
+      </class> <!-- com.CapstoneTelecom.TelecomProject -->
+    </test> <!-- my test -->
+  </suite> <!-- my suite -->
+</testng-results>
